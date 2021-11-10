@@ -4,9 +4,9 @@
 
 ## Ссылки:
 
-- [Miro](https://miro.com/welcomeonboard/Wld6NXFUMmt6UWt6M1lVTllMY1Q2VjVRTEZ2eGlMZGNFRndxcFB5Z1pFdnY2SWt3ZGxQZnNMdFJhVDQxU2pFNnwzMDc0NDU3MzUyOTE0MTQ4MjYx?invite_link_id=900454070908)
-- [Актуальное ТЗ](Docs/spec.pdf)
-- [Курсовой проект](Docs/КурсовойПроект.pdf)
+- [Miro](https://miro.com/app/board/o9J_lk6Vx7Y=/?invite_link_id=577007166582)
+- [Актуальное ТЗ](Documents/ТЗ.docx)
+- [Курсовой проект](Docs/Курсовая.docx)
 - [Презентация](Docs/presentation.pdf)
 - [Видео с демонстрацией](https://drive.google.com/file/d/1Q6njsNXA8bVRsIR7dkyvIfzwWrElCsR0/view?usp=sharing)
 - [Инструкция пользователя](Docs/instruction.pdf)
