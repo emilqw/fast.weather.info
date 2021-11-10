@@ -5,6 +5,7 @@
 ## Ссылки:
 
 - Доска на Miro [Посмотреть](https://miro.com/app/board/o9J_lk6Vx7Y=/?invite_link_id=577007166582)
+- Доска на Trello [Посмотреть](https://trello.com/b/xIclAked/fastweather)
 - Техническое задание [Посмотреть](Documents/ТЗ.pdf)
 - Курсовой проект [Посмотреть](Documents/Курсовая.pdf)
 - Презентация [Посмотреть](Documents/Презентация.pdf)
